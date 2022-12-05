@@ -1,0 +1,25 @@
+C:\Users\MANH TRUONG\source\repos\ThuatToanCanny\ThuatToanCanny\bin\Debug\ThuatToanCanny.exe.config
+C:\Users\MANH TRUONG\source\repos\ThuatToanCanny\ThuatToanCanny\bin\Debug\ThuatToanCanny.exe
+C:\Users\MANH TRUONG\source\repos\ThuatToanCanny\ThuatToanCanny\bin\Debug\ThuatToanCanny.pdb
+C:\Users\MANH TRUONG\source\repos\ThuatToanCanny\ThuatToanCanny\obj\Debug\ThuatToanCanny.csproj.AssemblyReference.cache
+C:\Users\MANH TRUONG\source\repos\ThuatToanCanny\ThuatToanCanny\obj\Debug\ThuatToanCanny.Properties.Resources.resources
+C:\Users\MANH TRUONG\source\repos\ThuatToanCanny\ThuatToanCanny\obj\Debug\ThuatToanCanny.csproj.GenerateResource.cache
+C:\Users\MANH TRUONG\source\repos\ThuatToanCanny\ThuatToanCanny\obj\Debug\ThuatToanCanny.csproj.CoreCompileInputs.cache
+C:\Users\MANH TRUONG\source\repos\ThuatToanCanny\ThuatToanCanny\obj\Debug\ThuatToanCanny.exe
+C:\Users\MANH TRUONG\source\repos\ThuatToanCanny\ThuatToanCanny\obj\Debug\ThuatToanCanny.pdb
+C:\Users\MANH TRUONG\source\repos\ThuatToanCanny\ThuatToanCanny\obj\Debug\ThuatToanCanny.Form1.resources
+C:\Users\MANH TRUONG\source\repos\ThuatToanCanny\ThuatToanCanny\obj\Debug\ThuatToanCanny.help.resources
+C:\Users\MANH TRUONG\source\repos\ThuatToanCanny\ThuatToanCanny\obj\Debug\ThuatToanCanny.Form2.resources
+C:\Users\MANH TRUONG\source\repos\ThuatToanCanny\ThuatToanCanny\obj\Debug\ThuatToanCanny.Form3.resources
+C:\Users\MANH TRUONG\source\repos\ThuatToanCanny\ThuatToanCanny\obj\Debug\ThuatToanCanny.Form4.resources
+D:\Download\xử lý ảnh\projectC#\ThuatToanCanny\ThuatToanCanny\bin\Debug\ThuatToanCanny.exe.config
+D:\Download\xử lý ảnh\projectC#\ThuatToanCanny\ThuatToanCanny\bin\Debug\ThuatToanCanny.exe
+D:\Download\xử lý ảnh\projectC#\ThuatToanCanny\ThuatToanCanny\bin\Debug\ThuatToanCanny.pdb
+D:\Download\xử lý ảnh\projectC#\ThuatToanCanny\ThuatToanCanny\obj\Debug\ThuatToanCanny.csproj.AssemblyReference.cache
+D:\Download\xử lý ảnh\projectC#\ThuatToanCanny\ThuatToanCanny\obj\Debug\ThuatToanCanny.Form1.resources
+D:\Download\xử lý ảnh\projectC#\ThuatToanCanny\ThuatToanCanny\obj\Debug\ThuatToanCanny.help.resources
+D:\Download\xử lý ảnh\projectC#\ThuatToanCanny\ThuatToanCanny\obj\Debug\ThuatToanCanny.Properties.Resources.resources
+D:\Download\xử lý ảnh\projectC#\ThuatToanCanny\ThuatToanCanny\obj\Debug\ThuatToanCanny.csproj.GenerateResource.cache
+D:\Download\xử lý ảnh\projectC#\ThuatToanCanny\ThuatToanCanny\obj\Debug\ThuatToanCanny.csproj.CoreCompileInputs.cache
+D:\Download\xử lý ảnh\projectC#\ThuatToanCanny\ThuatToanCanny\obj\Debug\ThuatToanCanny.exe
+D:\Download\xử lý ảnh\projectC#\ThuatToanCanny\ThuatToanCanny\obj\Debug\ThuatToanCanny.pdb
