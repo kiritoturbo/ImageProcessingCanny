@@ -140,10 +140,8 @@ namespace ThuatToanCanny
                 {
                     int gx = 0;
                     int g = 0;
-                    gx = -anhnguon.GetPixel(x + 1, y).R
-                         - anhnguon.GetPixel(x, y + 1).R
-                         + 4 * anhnguon.GetPixel(x + 1, y + 1).R
-                         - anhnguon.GetPixel(x + 2, y + 1).R
+                    gx = -anhnguon.GetPixel(x + 1, y).R - anhnguon.GetPixel(x, y + 1).R
+                         + 4 * anhnguon.GetPixel(x + 1, y + 1).R - anhnguon.GetPixel(x + 2, y + 1).R
                          - anhnguon.GetPixel(x + 1, y + 2).R;
                     g = Math.Abs(gx);
                     if (g > 200)
@@ -295,10 +293,17 @@ namespace ThuatToanCanny
 
                     gx = gx + anhnguon.GetPixel(x + 2, y).R + anhnguon.GetPixel(x + 2, y + 1).R + anhnguon.GetPixel(x + 2, y + 2).R;
 
+
+
+
                     gy = -anhnguon.GetPixel(x, y).R - anhnguon.GetPixel(x + 1, y).R - anhnguon.GetPixel(x + 2, y).R;
 
                     gy = gy + anhnguon.GetPixel(x, y + 2).R + anhnguon.GetPixel(x + 1, y + 2).R + anhnguon.GetPixel(x + 2, y + 2).R;
+
+
                     g = Math.Abs(gx) + Math.Abs(gy);
+
+
                     if (g > 255)
                         g = 255;
                     if (g < 0)

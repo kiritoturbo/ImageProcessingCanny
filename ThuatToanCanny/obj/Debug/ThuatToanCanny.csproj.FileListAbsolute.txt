@@ -23,3 +23,14 @@ D:\Download\xử lý ảnh\projectC#\ThuatToanCanny\ThuatToanCanny\obj\Debug\Thu
 D:\Download\xử lý ảnh\projectC#\ThuatToanCanny\ThuatToanCanny\obj\Debug\ThuatToanCanny.csproj.CoreCompileInputs.cache
 D:\Download\xử lý ảnh\projectC#\ThuatToanCanny\ThuatToanCanny\obj\Debug\ThuatToanCanny.exe
 D:\Download\xử lý ảnh\projectC#\ThuatToanCanny\ThuatToanCanny\obj\Debug\ThuatToanCanny.pdb
+D:\Download\c#\ThuatToanCanny\ThuatToanCanny\bin\Debug\ThuatToanCanny.exe.config
+D:\Download\c#\ThuatToanCanny\ThuatToanCanny\bin\Debug\ThuatToanCanny.exe
+D:\Download\c#\ThuatToanCanny\ThuatToanCanny\bin\Debug\ThuatToanCanny.pdb
+D:\Download\c#\ThuatToanCanny\ThuatToanCanny\obj\Debug\ThuatToanCanny.csproj.AssemblyReference.cache
+D:\Download\c#\ThuatToanCanny\ThuatToanCanny\obj\Debug\ThuatToanCanny.Form1.resources
+D:\Download\c#\ThuatToanCanny\ThuatToanCanny\obj\Debug\ThuatToanCanny.help.resources
+D:\Download\c#\ThuatToanCanny\ThuatToanCanny\obj\Debug\ThuatToanCanny.Properties.Resources.resources
+D:\Download\c#\ThuatToanCanny\ThuatToanCanny\obj\Debug\ThuatToanCanny.csproj.GenerateResource.cache
+D:\Download\c#\ThuatToanCanny\ThuatToanCanny\obj\Debug\ThuatToanCanny.csproj.CoreCompileInputs.cache
+D:\Download\c#\ThuatToanCanny\ThuatToanCanny\obj\Debug\ThuatToanCanny.exe
+D:\Download\c#\ThuatToanCanny\ThuatToanCanny\obj\Debug\ThuatToanCanny.pdb
